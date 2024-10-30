@@ -1,0 +1,15 @@
+/* style.css */
+body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+
